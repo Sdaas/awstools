@@ -13,3 +13,6 @@ Gemfile.lock
 bin/*
 .bundle/*
 
+Vagrantfile
+aws_tools.sublime-project
+aws_tools.sublime-workspace
